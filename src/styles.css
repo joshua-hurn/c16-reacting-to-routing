@@ -1,0 +1,18 @@
+#navbar-logo {
+    height: 3em;
+    width: 10.2em;
+    border-radius: 75px;
+}
+
+#home-container {
+    width: 70%;
+    margin: 2em auto;
+}
+
+.film-card {
+    width: 18rem;
+}
+
+.single-film-card {
+    width: 60rem;
+}
